@@ -9,8 +9,6 @@ Verify you have gcc installed
 $ gcc --version
 ```
 
-If GCC is not installed, install it :)
-
 #### Test your code
 ```bash
 $ gcc challenge_1.c && ./a.out

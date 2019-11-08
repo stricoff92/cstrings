@@ -1,35 +1,37 @@
 
 /*
-    Challenge 5
+    Challenge 6
 
 
     Setup:
       create a cstring that holds at least 5 characters
 
     Task:
-      experiment printing your pointer within a formatted string with a * before the pointer.
-      wrap the pointer in parenthasis add 1 to the pointer
+      experiment adding integers to your pointer within a formatted string with/without a *.
+      try formatting as a pointer, integer, character
 
     example:
       char* someData = "hello";
+
+      printf("let's see what happens %p\n", (someData + 0));
+      printf("let's see what happens %p\n", (someData + 1));
+
+      printf("let's see what happens %i\n", (someData + 0));
+      printf("let's see what happens %i\n", (someData + 1));
+
+      printf("let's see what happens %c\n", *(someData + 0));
       printf("let's see what happens %c\n", *(someData + 1));
-      
+
     Question:
-      what's happening in memory when we add 1 to a pointer?
-      what's happening when we add 200 to the pointer?
-
-      
-
+      what's we add a number to a pointer?
+      what's happening when we add 200 to the pointer? Is there an error? Should there be an error?
 
     $
-    gcc challenge_5.c && ./a.out
-  
-  
+    gcc challenge_6.c && ./a.out
+
 */
 
 #include <stdio.h>
-
-
 
 
 int main() {

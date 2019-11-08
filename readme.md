@@ -2,8 +2,6 @@
 
 ## C String Exercises
 
-![](https://media.giphy.com/media/QW2KVsnNquaiI/giphy.gif)
-
 
 #### Setup
 Verify you have gcc installed

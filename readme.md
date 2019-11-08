@@ -2,7 +2,7 @@
 
 ## C String Exercises
 
-<img src="https://media.giphy.com/media/QW2KVsnNquaiI/giphy.gif" width="250">
+![](https://media.giphy.com/media/QW2KVsnNquaiI/giphy.gif)
 
 
 #### Setup

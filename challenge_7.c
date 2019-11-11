@@ -2,7 +2,7 @@
 /*
     Challenge 7
     Task:
-      Use a for loop, the strlen function, and the isVowelfunction to
+      Use a for loop, the strlen function, and the isVowel function to
       update vowelCount to reflect the number of vowels in userInput.
     $
     gcc challenge_7.c && ./a.out

@@ -7,7 +7,7 @@
       create a cstring that holds at least 5 characters
 
     Task:
-      experiment printing your pointer within a formatted string with a * before the pointer
+      experiment printing your pointer within a formatted string prefixed with a *
       try the different formatting options %i %c %p (ICP FOR LIFE!)
 
     example:
@@ -36,10 +36,6 @@
 
 int main() {
   // Edit code below v v
-      char* someData = "hello";
-      printf("let's see what happens %i\n", *someData);
-      printf("let's see what happens %c\n", *someData);
-      printf("let's see what happens %p\n", *someData);
 
   // Edit code above ^ ^
   return 0;

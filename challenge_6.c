@@ -7,7 +7,7 @@
       create a cstring that holds at least 5 characters
 
     Task:
-      experiment adding integers to your pointer within a formatted string with/without a *.
+      Experiment adding integers to your pointer.
       try formatting as a pointer, integer, character
 
     example:
@@ -23,7 +23,7 @@
       printf("let's see what happens %c\n", *(someData + 1));
 
     Question:
-      what's we add a number to a pointer?
+      what's happening when we add a number to a pointer?
       what's happening when we add 200 to the pointer? Is there an error? Should there be an error?
 
     $

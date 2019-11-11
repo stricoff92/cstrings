@@ -18,7 +18,6 @@
 
     $
     gcc challenge_1.c && ./a.out
-
 */
 
 #include <stdio.h>
